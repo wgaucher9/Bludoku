@@ -8,7 +8,7 @@ A personal iOS Sudoku app built as a Swift/SwiftUI learning project. Bludoku shi
 
 ## Screenshots
 
-_Screenshots coming soon._
+![Bludoku screenshot](<screenshots/Bludoku Screenshot.png>)
 
 ---
 
