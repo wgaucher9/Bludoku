@@ -54,7 +54,7 @@ struct ContentView: View {
                 .padding(.horizontal)
                 .padding(.bottom, 8)
             }
-            .navigationTitle("Sudoku")
+            .navigationTitle("Bludoku")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .navigationBarLeading) {
